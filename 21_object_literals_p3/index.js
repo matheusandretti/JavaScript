@@ -33,4 +33,4 @@ console.log(carro.tipo_de_carro);
 console.log(carro);
 
 console.log(barco.tipo_de_barco);
-console.log(aviao.tipod_de_aviao);
+console.log(aviao.tipo_de_aviao);
